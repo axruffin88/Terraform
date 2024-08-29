@@ -1,4 +1,5 @@
- terraform{
+#We need permission to access OCI
+terraform{
     required_version = "~> 1.2.0"
     required_providers{
         oci ={
