@@ -1,4 +1,4 @@
-#This
+#These are the resources that makes up the Virtual Cloud Private Network (VPN)
 
 # VCN 
 resource "oci_core_vcn" "mastodon_vcn" {
